@@ -1,2 +1,4 @@
 サル先生のGitコマンド
 stash用の変更
+
+pull --rebase用
